@@ -1,0 +1,61 @@
+2024/11/02-22:43:42.642 342c Reusing MANIFEST C:\MyData\BOT WHATSAPP\Bot-Adh-AI\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/02-22:43:42.643 342c Recovering log #390
+2024/11/02-22:43:42.663 342c Reusing old log C:\MyData\BOT WHATSAPP\Bot-Adh-AI\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000390.log 
+2024/11/02-22:43:45.296 2378 Level-0 table #400: started
+2024/11/02-22:43:45.306 2378 Level-0 table #400: 232347 bytes OK
+2024/11/02-22:43:45.308 2378 Delete type=0 #390
+2024/11/02-22:43:45.308 2378 Manual compaction at level-0 from '\x00H\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00I\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/02-22:43:45.416 2d14 Compacting 1@1 + 6@2 files
+2024/11/02-22:43:45.569 2d14 Generated table #401@1: 68100 keys, 2230760 bytes
+2024/11/02-22:43:45.633 2d14 Generated table #402@1: 6282 keys, 2169227 bytes
+2024/11/02-22:43:45.716 2d14 Generated table #403@1: 5851 keys, 2160554 bytes
+2024/11/02-22:43:45.859 2d14 Generated table #404@1: 26885 keys, 2243877 bytes
+2024/11/02-22:43:46.157 2d14 Generated table #405@1: 86817 keys, 2232725 bytes
+2024/11/02-22:43:46.185 2d14 Generated table #406@1: 11678 keys, 251936 bytes
+2024/11/02-22:43:46.185 2d14 Compacted 1@1 + 6@2 files => 11289079 bytes
+2024/11/02-22:43:46.187 2d14 compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/11/02-22:43:46.188 2d14 Delete type=2 #392
+2024/11/02-22:43:46.188 2d14 Delete type=2 #393
+2024/11/02-22:43:46.188 2d14 Delete type=2 #394
+2024/11/02-22:43:46.188 2d14 Delete type=2 #395
+2024/11/02-22:43:46.188 2d14 Delete type=2 #396
+2024/11/02-22:43:46.188 2d14 Delete type=2 #397
+2024/11/02-22:43:46.188 2d14 Delete type=2 #400
+2024/11/02-22:46:03.479 6108 Level-0 table #408: started
+2024/11/02-22:46:03.568 6108 Level-0 table #408: 1488950 bytes OK
+2024/11/02-22:46:03.570 6108 Delete type=0 #399
+2024/11/02-22:46:03.995 603c Compacting 1@1 + 6@2 files
+2024/11/02-22:46:04.132 603c Generated table #409@1: 68860 keys, 2231832 bytes
+2024/11/02-22:46:04.227 603c Generated table #410@1: 8059 keys, 2173085 bytes
+2024/11/02-22:46:04.314 603c Generated table #411@1: 3720 keys, 2156412 bytes
+2024/11/02-22:46:04.370 603c Generated table #412@1: 28536 keys, 2249126 bytes
+2024/11/02-22:46:04.508 603c Generated table #413@1: 78235 keys, 2221106 bytes
+2024/11/02-22:46:04.596 603c Generated table #414@1: 25027 keys, 531780 bytes
+2024/11/02-22:46:04.596 603c Compacted 1@1 + 6@2 files => 11563341 bytes
+2024/11/02-22:46:04.597 603c compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/11/02-22:46:04.598 603c Delete type=2 #401
+2024/11/02-22:46:04.598 603c Delete type=2 #402
+2024/11/02-22:46:04.598 603c Delete type=2 #403
+2024/11/02-22:46:04.598 603c Delete type=2 #404
+2024/11/02-22:46:04.598 603c Delete type=2 #405
+2024/11/02-22:46:04.598 603c Delete type=2 #406
+2024/11/02-22:46:04.598 603c Delete type=2 #408
+2024/11/02-22:50:47.037 51f0 Level-0 table #416: started
+2024/11/02-22:50:47.072 51f0 Level-0 table #416: 1535211 bytes OK
+2024/11/02-22:50:47.075 51f0 Delete type=0 #407
+2024/11/02-22:50:47.935 2d8c Compacting 1@1 + 6@2 files
+2024/11/02-22:50:48.071 2d8c Generated table #417@1: 68595 keys, 2232793 bytes
+2024/11/02-22:50:48.168 2d8c Generated table #418@1: 9449 keys, 2172722 bytes
+2024/11/02-22:50:48.258 2d8c Generated table #419@1: 2362 keys, 2153955 bytes
+2024/11/02-22:50:48.382 2d8c Generated table #420@1: 29391 keys, 2254410 bytes
+2024/11/02-22:50:48.518 2d8c Generated table #421@1: 70363 keys, 2213020 bytes
+2024/11/02-22:50:48.613 2d8c Generated table #422@1: 35134 keys, 746644 bytes
+2024/11/02-22:50:48.613 2d8c Compacted 1@1 + 6@2 files => 11773544 bytes
+2024/11/02-22:50:48.614 2d8c compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/11/02-22:50:48.614 2d8c Delete type=2 #409
+2024/11/02-22:50:48.615 2d8c Delete type=2 #410
+2024/11/02-22:50:48.615 2d8c Delete type=2 #411
+2024/11/02-22:50:48.615 2d8c Delete type=2 #412
+2024/11/02-22:50:48.615 2d8c Delete type=2 #413
+2024/11/02-22:50:48.615 2d8c Delete type=2 #414
+2024/11/02-22:50:48.615 2d8c Delete type=2 #416
